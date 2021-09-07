@@ -1,0 +1,2 @@
+# Simulation-of-a-Black-Hole-attack-in-NS-3
+Generated a map of Civil Lines, Allahabad (India) using OpenStreetMap and simulated real-time traffic on it using SUMO (Simulation of Urban Mobility) tool and visualized in on PyViz and NetAnim animators.  Simulated a black hole attack in Network Simulator-3 on the traffic generated and implemented the AODV protocol and calculated the throughput using FlowMonitor Class.
